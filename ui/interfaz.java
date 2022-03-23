@@ -73,6 +73,8 @@ public class interfaz {
         ventanaChat.setResizable(false);
         ventanaChat.setVisible(true);
         //ventanaChat.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	System.out.printl("MODIFICACIÓN DEL CÓDIGO PARA LA ACTIVIDAD EN CLASE DE DATOS II");
+    System.out.println("OTRA MODIFICACIÓN DEL CÓDIGO PARA LA ACTIVIDAD EN CLASE DE DATOS II");
        
     }    
 
